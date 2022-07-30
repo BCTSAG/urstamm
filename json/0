@@ -1,5 +1,22 @@
-            "id": 0,
-            "description": "TestDescription",
-            "external_url": "https://bcts.ch",
-            "image": "https://bafybeidsv2s2kdigfmegpcykerjw5v5zbdqnizkdk4aurclmegf33v53iy.ipfs.infura-ipfs.io/",
-            "name": "The Carbon NFT 0"
+{
+    "title": "EWS Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "The Carbon NFT 0""
+        },
+        "description": {
+            "type": "string",
+            "description": "here comes all the blabla stuff"
+        },
+        "ID": {
+            "type": "integer",
+            "description": "0"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://ipfs.infura.io/ipfs/QmW4KeQndiYNmWuVqVdcLC9M7eToqDmXUgFP6iL6ZBM2Cd"
+        }
+    }
+}
