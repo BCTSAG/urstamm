@@ -1,1 +1,4 @@
-a
+{ "description": "Schweizer CO2 Zertifikat für CO2", 
+  "image": "https://ipfs.infura.io/ipfs/QmW4KeQndiYNmWuVqVdcLC9M7eToqDmXUgFP6iL6ZBM2Cd", 
+  "name": "CO2 Zertifikat 5.268 Tonnen "
+}
